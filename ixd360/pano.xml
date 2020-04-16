@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.2" apprev="15983" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.8" levelingroll="0.3" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="127" fovmode="0">
+      <start fov="70" pan="42.01" projection="4" tilt="2.75"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72765323798812" comment="" longitude="-62.27134136441805" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:03"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="3" url="{node2}" tilt="0.1" skinid="ht_node" id="Ir"/>
+      <hotspot target="_blank" description="" title="Bahía en 360º" pan="-166.44" url="https://bahiaen360.com" tilt="-1.13" skinid="ht_url" id="Point01"/>
+      <hotspot target="" description="Fitz Roy 682" title="Dirección" pan="57.7" url="" tilt="19.05" skinid="ht_info" id="Point02"/>
+      <hotspot target="_blank" description="" title="Ver en el mapa" pan="-59.91" url="https://www.google.com.ar/maps/place/Infinito+x+Descubrir/@-38.7277372,-62.2713565,15z/data=!4m5!3m4!1s0x0:0x8b5f78aad4b5fa6c!8m2!3d-38.7277372!4d-62.2713565" tilt="14.96" skinid="ht_url" id="Point03"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" roty="47.000" rotx="-10.000" width="1856" clickmode="0" fov="15.750" pan="67.320" rotz="12.000" height="1578" stretch="1.000" tilt="-11.090" id="Element01">
+        <source url="media/LOGO.png"/>
+      </image>
+    </media>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0">
+      <clip nextclipnodeid="node3" nextcliptitle="Clip02" length="60" transitiontype="0" animtype="0" cliptitle="Clip01" nodeid="node1" animtitle="Animation01">
+        <keyframe value="71.3978" transitiontime="0" type="0" time="0" property="0"/>
+        <keyframe value="2.75" transitiontime="0" type="0" time="0" property="1"/>
+        <keyframe value="70" transitiontime="0" type="0" time="0" property="2"/>
+        <keyframe value="4" transitiontime="60" type="0" time="0" property="3"/>
+        <keyframe value="-31.4594" transitiontime="0" bezierinvalue="-31.4594" type="2" bezierintime="42.3" bezierouttime="10060" time="60" bezieroutvalue="-31.4594" property="0"/>
+      </clip>
+    </animation>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.7" levelingroll="-1.3" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="68" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727750" comment="" longitude="-62.271172" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:08"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="112.22" url="{node1}" tilt="-1.41" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="14.02" url="{node3}" tilt="-1.84" skinid="ht_node" id="Point02"/>
+      <hotspot target="" description="Abierto de martes a viernes de 9 a 13 hs y de 14 a 18 hs, y los sábados de 14 a 18 hs." title="Horarios" pan="-24.37" url="" tilt="5.41" skinid="ht_info" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.4" levelingroll="-0.4" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="56" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72768287030955" comment="" longitude="-62.27108284424969" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:12"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-150.48" url="{node2}" tilt="-6.69" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="40.02" url="{node4}" tilt="-3.57" skinid="ht_node" id="Point02"/>
+      <hotspot target="" description="" title="Avanzar" pan="70.68" url="{node5}" tilt="-3.82" skinid="ht_node" id="Point03"/>
+      <hotspot target="https://youtu.be/P8dCn888wf8" description="" title="IxD Bahía Blanca" pan="111.78" url="P8dCn888wf8" tilt="-0.17" skinid="ht_video_youtube" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0">
+      <clip nextclipnodeid="node8" nextcliptitle="Clip03" length="70" transitiontype="0" animtype="0" cliptitle="Clip02" nodeid="node3" animtitle="Animation01">
+        <keyframe value="-73.46939999999999" transitiontime="0" type="0" time="0" property="0"/>
+        <keyframe value="0" transitiontime="0" type="0" time="0" property="1"/>
+        <keyframe value="70" transitiontime="0" type="0" time="0" property="2"/>
+        <keyframe value="4" transitiontime="0" type="0" time="0" property="3"/>
+        <keyframe value="102.857" transitiontime="0" bezierinvalue="102.857" type="2" bezierintime="52" bezierouttime="10070" time="70" bezieroutvalue="102.857" property="0"/>
+      </clip>
+    </animation>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.5" levelingroll="0.8" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="46" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727600733666875" comment="" longitude="-62.27105035218426" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:15"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="162.91" url="{node5}" tilt="-0.83" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="-144.06" url="{node3}" tilt="-1.87" skinid="ht_node" id="Point02"/>
+      <hotspot target="" description="" title="Avanzar" pan="5.43" url="{node7}" tilt="0.3" skinid="ht_node" id="Point03"/>
+      <hotspot target="" description="" title="Avanzar" pan="-47.28" url="{node6}" tilt="-3.58" skinid="ht_node" id="Point04"/>
+      <hotspot target="" description="" title="Las redes" pan="84.75" url="" tilt="27.87" skinid="ht_info" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.7" levelingroll="1.3" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="315" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727612271470704" comment="" longitude="-62.27112230688476" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:16"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="$fwd" description="" title="Avanzar" pan="158.56" url="{node3}" tilt="0" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Sala de padres" pan="5.89" url="" tilt="1.07" skinid="ht_info" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.1" levelingroll="1" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-24" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727621305543664" comment="" longitude="-62.27099089451218" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:16"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="42.63" url="{node4}" tilt="-0.57" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.1" levelingroll="2" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="24" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72752745580131" comment="" longitude="-62.27099098413089" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:17"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-177.42" url="{node4}" tilt="-5.37" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="-38.54" url="{node9}" tilt="-0.97" skinid="ht_node" id="Point02"/>
+      <hotspot target="" description="" title="Avanzar" pan="0.08" url="{node8}" tilt="0.01" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="0.8" levelingroll="1" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-240" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72747561366776" comment="" longitude="-62.27091847983172" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:19"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-124.12" url="{node7}" tilt="-7.43" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0">
+      <clip nextclipnodeid="node13" nextcliptitle="Clip04" length="60" transitiontype="0" animtype="0" cliptitle="Clip03" nodeid="node8" animtitle="Animation01">
+        <keyframe value="161.633" transitiontime="0" type="0" time="0" property="0"/>
+        <keyframe value="0" transitiontime="0" type="0" time="0" property="1"/>
+        <keyframe value="70" transitiontime="0" type="0" time="0" property="2"/>
+        <keyframe value="4" transitiontime="60" type="0" time="0" property="3"/>
+        <keyframe value="73.46939999999999" transitiontime="0" bezierinvalue="73.4694" type="2" bezierintime="45" bezierouttime="10060" time="60" bezieroutvalue="73.4694" property="0"/>
+      </clip>
+    </animation>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.7" levelingroll="1.5" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="126" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72757069504185" comment="" longitude="-62.27087385284807" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:19"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-164.81" url="{node7}" tilt="-2.1" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="148.48" url="{node8}" tilt="-1.89" skinid="ht_node" id="Point02"/>
+      <hotspot target="" description="" title="Avanzar" pan="26.27" url="{node16}" tilt="-1.3" skinid="ht_node" id="Point03"/>
+      <hotspot target="" description="" title="Avanzar" pan="3.6" url="{node15}" tilt="0.01" skinid="ht_node" id="Point04"/>
+      <hotspot target="" description="" title="Avanzar" pan="13.18" url="{node10}" tilt="-0.23" skinid="ht_node" id="Point05"/>
+      <hotspot target="" description="" title="Avanzar" pan="-8.02" url="{node13}" tilt="0.06" skinid="ht_node" id="Point06"/>
+      <hotspot target="" description="" title="Avanzar" pan="-19.83" url="{node14}" tilt="0.23" skinid="ht_node" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.7" levelingroll="1.3" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="114" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72759115449969" comment="" longitude="-62.27075036574553" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:21"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-136.52" url="{node9}" tilt="-6.88" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="-16.62" url="{node11}" tilt="-5.24" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.2" levelingroll="1.2" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-151" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727597273954174" comment="" longitude="-62.270711068786625" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:22"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="104.83" url="{node12}" tilt="-6.19" skinid="ht_node" id="Point01"/>
+      <hotspot target="$fwd" description="" title="Avanzar" pan="-72.2886" url="{node10}" tilt="0" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.7" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727601086483936" comment="" longitude="-62.27067160615161" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:22"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="118.69" url="{node11}" tilt="-5.64" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="1.8" levelingroll="1.6" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-118" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727667507743696" comment="" longitude="-62.27080788095094" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:23"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-84.44" url="{node14}" tilt="-1.52" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="-161.47" url="{node9}" tilt="-3.26" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0">
+      <clip nextclipnodeid="node1" nextcliptitle="Clip01" length="60" transitiontype="0" animtype="0" cliptitle="Clip04" nodeid="node13" animtitle="Animation01">
+        <keyframe value="14.6939" transitiontime="0" type="0" time="0" property="0"/>
+        <keyframe value="0" transitiontime="0" type="0" time="0" property="1"/>
+        <keyframe value="70" transitiontime="0" type="0" time="0" property="2"/>
+        <keyframe value="4" transitiontime="60" type="0" time="0" property="3"/>
+        <keyframe value="176.327" transitiontime="0" bezierinvalue="176.327" type="2" bezierintime="42" bezierouttime="10060" time="60" bezieroutvalue="176.327" property="0"/>
+      </clip>
+    </animation>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.3" levelingroll="-0.1" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="337.5" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72768037394659" comment="" longitude="-62.27087886011884" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:24"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-35.06" url="{node9}" tilt="-0.15" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.2" levelingroll="-0.6" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727636962578266" comment="" longitude="-62.270761060188306" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:26"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="118.23" url="{node9}" tilt="-2.31" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.2" levelingroll="0.3" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="58" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.72758558269136" comment="" longitude="-62.270808424606344" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:30"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="-160.91" url="{node9}" tilt="-5.85" skinid="ht_node" id="Point01"/>
+      <hotspot target="" description="" title="Avanzar" pan="30.09" url="{node17}" tilt="-3.26" skinid="ht_node" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbiashidpi="0.400" width="1344" levelingpitch="2.4" levelingroll="-0.1" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" overlap="1" leveltilesize="510">
+      <level preload="0" width="1344" height="1344" predecode="0"/>
+      <level preload="0" width="672" height="672" predecode="0"/>
+      <level preload="1" width="336" height="336" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-11" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata latitude="-38.727532161440095" comment="" longitude="-62.27078396197129" source="" tags="Para usar" description="" title="" copyright="" author="" info="" customnodeid="" datetime="19/03/2019 16:31"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" enabled="1" height="20" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" description="" title="Avanzar" pan="143.9" url="{node16}" tilt="-4.93" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="0" type="crossdissolve" zoomin="0" softedge="0" zoomfov="20" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextprojections="0" invertcontrol="1" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1">
+      <menulink text="Bahía en 360º" url="https://bahiaen360.com"/>
+    </control>
+  </panorama>
+</tour>
